@@ -2,11 +2,10 @@
   "development": {
     "username": "root",
     "password": "",
-    "database": "sequelize_cli",
+    "database": "cidadao",
     "host": "127.0.0.1",
     "dialect": "mysql",
-    "operatorsAliases": false,
-    "timezone":  "-03:00"
+    "operatorsAliases": false
   },
   "test": {
     "username": "root",
